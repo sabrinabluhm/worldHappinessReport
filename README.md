@@ -29,5 +29,5 @@ The datasat was downloaded from [Kaggle](https://www.kaggle.com/unsdsn/world-hap
 
 ## Links
 
-* Repository
-* Tableau Public
+* [Repository](https://github.com/sabrinarubert/worldHappinessReport)
+* [Tableau Public]()
